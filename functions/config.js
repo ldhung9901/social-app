@@ -1,4 +1,4 @@
-exports.config= {
+module.exports= {
     apiKey: "AIzaSyBK0YOULWnDLA91bBnG6lthSXiL4u5FiA0",
     authDomain: "social-leduchung.firebaseapp.com",
     databaseURL: "https://social-leduchung.firebaseio.com",
